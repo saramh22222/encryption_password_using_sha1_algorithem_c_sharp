@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\sha1\sha1\bin\Debug\sha1.exe.config
+C:\Users\dell\source\repos\sha1\sha1\bin\Debug\sha1.exe
+C:\Users\dell\source\repos\sha1\sha1\bin\Debug\sha1.pdb
+C:\Users\dell\source\repos\sha1\sha1\obj\Debug\sha1.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\sha1\sha1\obj\Debug\sha1.Form1.resources
+C:\Users\dell\source\repos\sha1\sha1\obj\Debug\sha1.Properties.Resources.resources
+C:\Users\dell\source\repos\sha1\sha1\obj\Debug\sha1.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\sha1\sha1\obj\Debug\sha1.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\sha1\sha1\obj\Debug\sha1.exe
+C:\Users\dell\source\repos\sha1\sha1\obj\Debug\sha1.pdb
